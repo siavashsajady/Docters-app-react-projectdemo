@@ -1,0 +1,36 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "title": "I will help you to  maintain physical health",
+      "thumbnailUrl": "http://localhost:9000/docter1.jpg",
+      "rate": 34,
+      "rating": 4,
+      "specialist": { "id": 1, "fullName": "Mark Hub" }
+    },
+    {
+      "id": 2,
+      "title": "I will help you to restore physical health",
+      "thumbnailUrl": "http://localhost:9000/docter2.jpg",
+      "rate": 50,
+      "rating": 3,
+      "specialist": { "id": 1, "fullName": "Jimy Darkt" }
+    },
+    {
+      "id": 3,
+      "title": "I will help you to maintain mental health",
+      "thumbnailUrl": "http://localhost:9000/docter3.jpg",
+      "rate": 42,
+      "rating": 5,
+      "specialist": { "id": 1, "fullName": "Emil Pawel" }
+    },
+    {
+      "id": 4,
+      "title": "I will help you to restore mental health",
+      "thumbnailUrl": "http://localhost:9000/docter4.jpg",
+      "rate": 50,
+      "rating": 5,
+      "specialist": { "id": 1, "fullName": "Loren Jonz" }
+    }
+  ]
+}
